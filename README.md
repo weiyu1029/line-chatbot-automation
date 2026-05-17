@@ -2,7 +2,7 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![LINE API](https://img.shields.io/badge/LINE_API-00C300?style=for-the-badge&logo=line&logoColor=white)
 
-#  LINE Chatbot Automation
+#  AI Operations Ticket Routing System
 
 An automation-focused chatbot project designed to streamline communication workflows, notification management, and operational efficiency using the LINE Messaging API.
 
@@ -15,6 +15,12 @@ This project demonstrates how chatbot automation can improve communication effic
 The chatbot is designed to automate notification workflows, message handling, and user interactions through LINE Messenger.
 
 The project showcases practical applications of automation, API integration, and workflow optimization.
+
+---
+
+#  System Architecture
+
+<img src="images/architecture.png" width="900">
 
 ---
 
