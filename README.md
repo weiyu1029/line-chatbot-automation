@@ -324,6 +324,6 @@ If a token is accidentally exposed, rotate it immediately in the LINE Developers
 
 ---
 
-## 🎯 Project Goal
+##  Project Goal
 
 The goal of this project is to demonstrate how chatbot automation and operations analytics can reduce manual routing work, improve response speed, and create structured operational data from unstructured messages.
